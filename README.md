@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I’m Sina 👋</h1>
 <p align="center">
-  Software Developer • ML/AI + Frontend • Toronto, Canada
+  Software Developer • ML/AI • Podcast Host • CompE @ NYU • Toronto, Canada
 </p>
 
 <p align="center">
