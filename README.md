@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I’m Sina 👋</h1>
 <p align="center">
   Software Developer • ML/AI • Podcast Host • CompE @ NYU • Toronto, Canada
